@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahad Razzaq</h1>
 <h3 align="center">Data Scientist building production-grade AI systems with MLOps and SRE practices </h3>
 
-# Fahad Razzaq
-
-Data Scientist building production-grade AI systems with MLOps and SRE practices.
-
 I work across machine learning, data systems, and AI platform engineering, with a focus on building reliable AI applications that can be deployed, monitored, and improved in production.
 
 Current focus:

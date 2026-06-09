@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fahad Razzaq</h1>
-<h3 align="center">Data Scientist | Business Analyst | Generative AI | ML | Python, PowerBI & Tableau </h3>
+<h1 align="center">Hi 👋, I'm Fahad Razzaq</h1>
+<h3 align="center">Data Scientist building production-grade AI systems with MLOps and SRE practices </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

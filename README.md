@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Fahad Razzaq</h1>
 <h3 align="center">Data Scientist building production-grade AI systems with MLOps and SRE practices </h3>
 
+# Fahad Razzaq
+
+Data Scientist building production-grade AI systems with MLOps and SRE practices.
+
+I work across machine learning, data systems, and AI platform engineering, with a focus on building reliable AI applications that can be deployed, monitored, and improved in production.
+
+Current focus:
+
+* MLOps and production AI systems
+* Kubernetes-based AI deployment
+* RAG applications and LLM workflows
+* Observability with Prometheus and Grafana
+* Experiment tracking with MLflow
+* Workflow automation with Airflow
+* CI/CD for machine learning and AI services
+
+Core stack:
+Python, SQL, FastAPI, Docker, Kubernetes, AWS, Terraform, GitHub Actions, MLflow, Airflow, Prometheus, Grafana, PowerBI
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/m-fahad-razzaq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-fahad-razzaq/" height="30" width="40" /></a>

@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm Fahad Razzaq</h1>
-<h3 align="center">Data Scientist building production-grade AI systems with MLOps and SRE practices </h3>
+# Hi, I'm Fahad
 
-I work across machine learning, data systems, and AI platform engineering, with a focus on building reliable AI applications that can be deployed, monitored, and improved in production.
+Data Scientist building production-grade AI systems with MLOps and SRE practices.
+Based in Bonn, Germany. Originally from Pakistan.
 
-Current focus:
+I work across machine learning, data systems, and AI platform engineering.
+My projects focus on RAG systems, MLOps pipelines, and production observability.
 
-* MLOps and production AI systems
-* Kubernetes-based AI deployment
-* RAG applications and LLM workflows
-* Observability with Prometheus and Grafana
-* Experiment tracking with MLflow
-* Workflow automation with Airflow
-* CI/CD for machine learning and AI services
+---
 
-Core stack:
-Python, SQL, FastAPI, Docker, Kubernetes, AWS, Terraform, GitHub Actions, MLflow, Airflow, Prometheus, Grafana, PowerBI
+## Skills
 
+- **ML & AI:** Python, Scikit-learn, TensorFlow, PyTorch, Sentence Transformers, Gemini, Hugging Face
+- **MLOps:** MLflow, Airflow, Prometheus, Grafana, GitHub Actions
+- **Infrastructure:** Docker, Kubernetes, AWS, Terraform, FastAPI
+- **Data:** SQL, Pandas, Power BI, PySpark, BigQuery
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-fahad-razzaq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-fahad-razzaq/" height="30" width="40" /></a>
-</p>
+## Certifications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+CKA · CKAD · Docker Certified Associate · IBM Data Science Professional
 
+---
+
+## Contacts
+
+📧 Email: fahad.razzaq0701@gmail.com  
+💼 LinkedIn: [linkedin.com/in/m-fahad-razzaq](https://linkedin.com/in/m-fahad-razzaq)  
+📝 Medium: [medium.com/@fahad.razzaq0701](https://medium.com/@fahad.razzaq0701)
